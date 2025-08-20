@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c2118c3.css",
+    "main.js": "/static/js/main.5f400ed4.js",
+    "static/js/453.157d3363.chunk.js": "/static/js/453.157d3363.chunk.js",
+    "static/media/devanture.png": "/static/media/devanture.6bfb1bb099483bd98e97.png",
+    "static/media/banner.jpg": "/static/media/banner.b5d9bd2cbc0bf72dd6e9.jpg",
+    "static/media/bg.png": "/static/media/bg.5075a87b399b9d4014c1.png",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/DancingScript-VariableFont_wght.ttf": "/static/media/DancingScript-VariableFont_wght.d02a1ee17643667e9808.ttf",
+    "static/media/placeholder-amethyste.webp": "/static/media/placeholder-amethyste.5f3c59403a84a2a4efa3.webp",
+    "static/media/Logo_texte_blanc.png": "/static/media/Logo_texte_blanc.908d73b9291db8431496.png",
+    "static/media/instagram-brands-solid-full.svg": "/static/media/instagram-brands-solid-full.6554922dc41047be12bbd73aca47a8cb.svg",
+    "index.html": "/index.html",
+    "static/media/facebook-brands-solid-full.svg": "/static/media/facebook-brands-solid-full.e883661d8f6873b723dde1dee401dfce.svg",
+    "main.2c2118c3.css.map": "/static/css/main.2c2118c3.css.map",
+    "main.5f400ed4.js.map": "/static/js/main.5f400ed4.js.map",
+    "453.157d3363.chunk.js.map": "/static/js/453.157d3363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c2118c3.css",
+    "static/js/main.5f400ed4.js"
+  ]
+}
