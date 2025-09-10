@@ -1,3 +1,5 @@
+DirectoryIndex index.html
+
 # Force non-www
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www\.lune-de-crystal\.com$ [NC]
