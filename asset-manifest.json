@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bd4f6d5.css",
-    "main.js": "/static/js/main.f6c113ab.js",
+    "main.css": "/static/css/main.19085508.css",
+    "main.js": "/static/js/main.15bee110.js",
     "static/media/lumiere.png": "/static/media/lumiere.b4b6809aac3bcdebd3f6.png",
     "static/media/devanture.png": "/static/media/devanture.7153fa2ccc732e36059a.png",
     "static/media/banner.jpg": "/static/media/banner.71247ae9e0cf8ededb5e.jpg",
@@ -44,11 +44,11 @@
     "index.html": "/index.html",
     "static/media/instagram-brands-solid-full.svg": "/static/media/instagram-brands-solid-full.6554922dc41047be12bbd73aca47a8cb.svg",
     "static/media/facebook-brands-solid-full.svg": "/static/media/facebook-brands-solid-full.e883661d8f6873b723dde1dee401dfce.svg",
-    "main.7bd4f6d5.css.map": "/static/css/main.7bd4f6d5.css.map",
-    "main.f6c113ab.js.map": "/static/js/main.f6c113ab.js.map"
+    "main.19085508.css.map": "/static/css/main.19085508.css.map",
+    "main.15bee110.js.map": "/static/js/main.15bee110.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bd4f6d5.css",
-    "static/js/main.f6c113ab.js"
+    "static/css/main.19085508.css",
+    "static/js/main.15bee110.js"
   ]
 }
