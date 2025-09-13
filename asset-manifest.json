@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c3138cc.css",
-    "main.js": "/static/js/main.a68a15e5.js",
+    "main.css": "/static/css/main.7bd4f6d5.css",
+    "main.js": "/static/js/main.f6c113ab.js",
     "static/media/lumiere.png": "/static/media/lumiere.b4b6809aac3bcdebd3f6.png",
     "static/media/devanture.png": "/static/media/devanture.7153fa2ccc732e36059a.png",
     "static/media/banner.jpg": "/static/media/banner.71247ae9e0cf8ededb5e.jpg",
@@ -11,10 +11,14 @@
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
     "static/media/Decorations.jpg": "/static/media/Decorations.432157df2a80f88685c3.jpg",
     "static/media/Lithotherapie.jpg": "/static/media/Lithotherapie.23de3ce02e1a1428cbd6.jpg",
+    "static/media/pendulecollier.jpg": "/static/media/pendulecollier.9fbd7c2fe29a68ff115a.jpg",
     "static/media/Encens.jpg": "/static/media/Encens.6090d35bed3b28765653.jpg",
     "static/media/pierres.jpg": "/static/media/pierres.047078b8deb312b70782.jpg",
     "static/media/Resines.jpg": "/static/media/Resines.9f4b4970cb23c9408e7e.jpg",
+    "static/media/spelljar.jpg": "/static/media/spelljar.e007081234d32cdc88de.jpg",
     "static/media/brituel.jpg": "/static/media/brituel.b2c76dbc6e529b87acb4.jpg",
+    "static/media/pendulelivret.jpg": "/static/media/pendulelivret.753691e691bfe3f52d30.jpg",
+    "static/media/penduletourniquet.jpg": "/static/media/penduletourniquet.31e47497c25495d400ae.jpg",
     "static/media/Bougies.jpg": "/static/media/Bougies.fa2e987cbf186004422f.jpg",
     "static/media/pendules.jpg": "/static/media/pendules.fcb6636b4d8631c2e2cf.jpg",
     "static/media/Sauge.jpg": "/static/media/Sauge.0615fc9af6309a789e17.jpg",
@@ -28,6 +32,7 @@
     "static/media/religion.jpg": "/static/media/religion.6b8591624bbf3d2643e1.jpg",
     "static/media/breligion.jpg": "/static/media/breligion.70c41399d26283512ee1.jpg",
     "static/media/support.jpg": "/static/media/support.f5fb1e6cbf024467c2ea.jpg",
+    "static/media/pendulebaguette.jpg": "/static/media/pendulebaguette.fab4c9d387a344c27f7e.jpg",
     "static/media/Aromatherapie.jpg": "/static/media/Aromatherapie.8d16a850bd67056d12a2.jpg",
     "static/media/btotem.jpg": "/static/media/btotem.46e64cdbb5184fce5e34.jpg",
     "static/media/vibratoire.jpg": "/static/media/vibratoire.fc820cfea3bd589e664d.jpg",
@@ -39,11 +44,11 @@
     "index.html": "/index.html",
     "static/media/instagram-brands-solid-full.svg": "/static/media/instagram-brands-solid-full.6554922dc41047be12bbd73aca47a8cb.svg",
     "static/media/facebook-brands-solid-full.svg": "/static/media/facebook-brands-solid-full.e883661d8f6873b723dde1dee401dfce.svg",
-    "main.7c3138cc.css.map": "/static/css/main.7c3138cc.css.map",
-    "main.a68a15e5.js.map": "/static/js/main.a68a15e5.js.map"
+    "main.7bd4f6d5.css.map": "/static/css/main.7bd4f6d5.css.map",
+    "main.f6c113ab.js.map": "/static/js/main.f6c113ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c3138cc.css",
-    "static/js/main.a68a15e5.js"
+    "static/css/main.7bd4f6d5.css",
+    "static/js/main.f6c113ab.js"
   ]
 }
