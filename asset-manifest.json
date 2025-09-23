@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.19085508.css",
-    "main.js": "/static/js/main.15bee110.js",
+    "main.css": "/static/css/main.81735d15.css",
+    "main.js": "/static/js/main.b65ba75d.js",
     "static/media/lumiere.png": "/static/media/lumiere.b4b6809aac3bcdebd3f6.png",
     "static/media/devanture.png": "/static/media/devanture.7153fa2ccc732e36059a.png",
     "static/media/banner.jpg": "/static/media/banner.71247ae9e0cf8ededb5e.jpg",
@@ -10,13 +10,16 @@
     "static/media/bracelets.jpg": "/static/media/bracelets.ee0fae757202577e7b2d.jpg",
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
     "static/media/Decorations.jpg": "/static/media/Decorations.432157df2a80f88685c3.jpg",
+    "static/media/attrappereve.jpg": "/static/media/attrappereve.cf111c4aff49ebc3d198.jpg",
     "static/media/Lithotherapie.jpg": "/static/media/Lithotherapie.23de3ce02e1a1428cbd6.jpg",
     "static/media/pendulecollier.jpg": "/static/media/pendulecollier.9fbd7c2fe29a68ff115a.jpg",
     "static/media/Encens.jpg": "/static/media/Encens.6090d35bed3b28765653.jpg",
     "static/media/pierres.jpg": "/static/media/pierres.047078b8deb312b70782.jpg",
     "static/media/Resines.jpg": "/static/media/Resines.9f4b4970cb23c9408e7e.jpg",
+    "static/media/oracle2.jpg": "/static/media/oracle2.2322fe3f8ec4f4a34901.jpg",
     "static/media/spelljar.jpg": "/static/media/spelljar.e007081234d32cdc88de.jpg",
     "static/media/brituel.jpg": "/static/media/brituel.b2c76dbc6e529b87acb4.jpg",
+    "static/media/oracle3.jpg": "/static/media/oracle3.89a7a1377c7cbef3a2e0.jpg",
     "static/media/pendulelivret.jpg": "/static/media/pendulelivret.753691e691bfe3f52d30.jpg",
     "static/media/penduletourniquet.jpg": "/static/media/penduletourniquet.31e47497c25495d400ae.jpg",
     "static/media/Bougies.jpg": "/static/media/Bougies.fa2e987cbf186004422f.jpg",
@@ -27,10 +30,13 @@
     "static/media/tibetain.jpg": "/static/media/tibetain.02ce32b739d16a6a3123.jpg",
     "static/media/Oracles.jpg": "/static/media/Oracles.351e56fa00be2d212b77.jpg",
     "static/media/cristal.jpg": "/static/media/cristal.71b97a288a92a71d966b.jpg",
+    "static/media/attrappesoleil.jpg": "/static/media/attrappesoleil.85ad6d69d09b34521bbd.jpg",
+    "static/media/arbre.jpg": "/static/media/arbre.e05b7b31666acc7697b7.jpg",
     "static/media/tambour.jpg": "/static/media/tambour.1511ddd4de928ed815bb.jpg",
     "static/media/medailles.jpg": "/static/media/medailles.f37d4c4a98e3654da24c.jpg",
     "static/media/religion.jpg": "/static/media/religion.6b8591624bbf3d2643e1.jpg",
     "static/media/breligion.jpg": "/static/media/breligion.70c41399d26283512ee1.jpg",
+    "static/media/manekineko.jpg": "/static/media/manekineko.8b7331dc9cd99bc94cf6.jpg",
     "static/media/support.jpg": "/static/media/support.f5fb1e6cbf024467c2ea.jpg",
     "static/media/pendulebaguette.jpg": "/static/media/pendulebaguette.fab4c9d387a344c27f7e.jpg",
     "static/media/Aromatherapie.jpg": "/static/media/Aromatherapie.8d16a850bd67056d12a2.jpg",
@@ -44,11 +50,11 @@
     "index.html": "/index.html",
     "static/media/instagram-brands-solid-full.svg": "/static/media/instagram-brands-solid-full.6554922dc41047be12bbd73aca47a8cb.svg",
     "static/media/facebook-brands-solid-full.svg": "/static/media/facebook-brands-solid-full.e883661d8f6873b723dde1dee401dfce.svg",
-    "main.19085508.css.map": "/static/css/main.19085508.css.map",
-    "main.15bee110.js.map": "/static/js/main.15bee110.js.map"
+    "main.81735d15.css.map": "/static/css/main.81735d15.css.map",
+    "main.b65ba75d.js.map": "/static/js/main.b65ba75d.js.map"
   },
   "entrypoints": [
-    "static/css/main.19085508.css",
-    "static/js/main.15bee110.js"
+    "static/css/main.81735d15.css",
+    "static/js/main.b65ba75d.js"
   ]
 }
